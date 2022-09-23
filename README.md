@@ -2,6 +2,7 @@
 ### *(EN)* This program was made with **Python 3.9.13** mostly using *tkinter* module and *matplotlib* module to plot the graph on tkinter window. 
 ### *(PTBR)* Esse programa foi feito com **Python 3.9.13** sendo utilizado na sua maioria as ferramentas disponíveis pelo módulo do *tkinter* e *matplotlib*, responsavel pela criação do gráfico que foi embutido na janela do tkinter.
 *(EN)* With this program you should provide an excel sheet (.xlsx) with the probability of a person with exact age x will die within one year **(q_x)**, where the x interval is set automatically by the table, so it can be in the interval [0,&omega;] where **&omega;** is the oldest age attained.
+
 *(PTBR)* Com esse programa você deve fornecer uma planilha excel (.xlsx) com a probabilidade de morte de uma pessoa de idade exata x morrer dentro de um ano, aonde o intervalo de x é automaticamente determinado pela tabela fornecida, portanto, deve ser descrito através do intervalo [0, &omega;] aonde **&omega;** é a ultima idade da tábua.
 
 *(EN)* The sheet must follow the layout below:
